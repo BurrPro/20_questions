@@ -1,7 +1,3 @@
-# pylint: disable=missing-module-docstring
-# pylint: disable=missing-class-docstring
-# pylint: disable=missing-function-docstring
-
 import random
 answer = random.randint(1, 100)
 guess = int(input("Guess a number between 1 and 100: "))
